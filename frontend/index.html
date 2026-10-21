@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pokedex</title>
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="card">
+            <h1>¿Quién es este Pokémon?</h1>
+            <p class="subtitle">Servicio Web Distribuido</p>
+
+            <!-- Contenedor de la Imagen con filtro de silueta -->
+            <div class="img-container">
+            <img id="pokemon-img" class="silueta" src="" alt="Cargando Pokémon..." />
+            </div>
+
+            <!-- Pista dada por el servidor -->
+            <p id="pista" class="pista">Cargando desafío desde el servidor...</p>
+
+            <!-- Formulario para adivinar -->
+            <div class="form-group">
+            <input type="text" id="respuesta-input" placeholder="Escribe el nombre del Pokémon..." autocomplete="off" />
+            <button id="btn-adivinar" onclick="enviarRespuesta()">Adivinar</button>
+            </div>
+
+            <!-- Mensaje de resultado -->
+            <div id="resultado" class="resultado hidden"></div>
+
+            <!-- Botón para un nuevo reto -->
+            <button id="btn-siguiente" class="btn-siguiente hidden" onclick="cargarNuevoReto()">Siguiente Pokémon ↻</button>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
