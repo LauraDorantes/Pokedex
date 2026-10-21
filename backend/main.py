@@ -47,7 +47,42 @@ POKEDEX_DB = [
      "tipo": "Normal / Hada",
      "pista": "Canta una melodía pegajosa que hace dormir a cualquiera que la escuchey suelen ser muy cariñosos.",
      "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
-     "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"}
+     "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"},
+
+    {"id": 6, 
+     "nombre": "Bulbasaur", 
+     "tipo": "Planta / Veneno",
+     "pista": "Tiene una semilla en su espalda que crece con el tiempo.",
+     "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+     "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"},
+
+    {"id": 7, 
+     "nombre": "Squirtle",
+     "tipo": "Agua",
+     "pista": "Es un pequeño Pokémon con caparazón que puede disparar agua a alta presión.",
+     "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+     "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"},
+
+    {"id": 8, 
+     "nombre": "Eevee",
+     "tipo": "Normal",
+     "pista": "Es conocido por su capacidad de evolucionar en múltiples formas.",
+     "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+     "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"},
+
+    {"id": 9, 
+     "nombre": "Mewtwo",
+     "tipo": "Psíquico",
+     "pista": "Es un Pokémon legendario creado a partir del ADN de Mew.",
+     "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+     "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"},
+
+    {"id": 10,
+        "nombre": "Lucario",
+        "tipo": "Lucha / Acero",
+        "pista": "Es un Pokémon que puede sentir y manipular la energía a su alrededor.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png"}
 ]
 
 class Intento(BaseModel):
