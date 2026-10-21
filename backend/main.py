@@ -82,7 +82,77 @@ POKEDEX_DB = [
         "tipo": "Lucha / Acero",
         "pista": "Es un Pokémon que puede sentir y manipular la energía a su alrededor.",
         "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
-        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png"}
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png"},
+
+    {"id": 11,
+        "nombre": "Garchomp",
+        "tipo": "Dragón / Tierra",
+        "pista": "Es un Pokémon que se asemeja a un tiburón y es muy rápido en tierra.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"},
+
+    {"id": 12,
+        "nombre": "Greninja",
+        "tipo": "Agua / Siniestro",
+        "pista": "Es un Pokémon ninja que puede camuflarse con su entorno.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"},
+
+    {"id": 13,
+        "nombre": "Lapras",
+        "tipo": "Agua / Hielo",
+        "pista": "Es un Pokémon que puede transportar personas a través del agua y tiene un gran poder de canto.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"},
+
+    {"id": 14,
+        "nombre": "Butterfree",
+        "tipo": "Bicho / Volador",
+        "pista": "Es un Pokémon que puede volar y tiene un gran poder de curación.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"},
+
+    {"id": 15,
+        "nombre": "Alakazam",
+        "tipo": "Psíquico",
+        "pista": "Es un Pokémon con un gran poder mental y puede mover objetos con su mente.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"},
+
+    {"id": 16,
+        "nombre": "Onix",
+        "tipo": "Tierra / Roca",
+        "pista": "Es un Pokémon que se asemeja a una serpiente de roca y puede excavar túneles subterráneos.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"},
+
+    {"id": 17,
+        "nombre": "Hawlucha",
+        "tipo": "Lucha / Volador",
+        "pista": "Es un Pokémon que puede volar y tiene un gran poder de combate.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"},
+
+    {"id": 18,
+        "nombre": "Noivern",
+        "tipo": "Volador / Dragón",
+        "pista": "Es un Pokémon que puede volar y tiene un gran poder de combate.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"},
+
+    {"id": 19,
+        "nombre": "Dedenne",
+        "tipo": "Eléctrico / Hada",
+        "pista": "Es un Pokémon que puede generar electricidad y tiene un gran poder de curación.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"},
+
+    {"id": 20,
+        "nombre": "Goodra",
+        "tipo": "Dragón / Agua",
+        "pista": "Es un Pokémon que puede controlar el agua y tiene un gran poder de combate.",
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"}
 ]
 
 class Intento(BaseModel):
