@@ -144,15 +144,15 @@ POKEDEX_DB = [
         "nombre": "Dedenne",
         "tipo": "Eléctrico / Hada",
         "pista": "Es un Pokémon que puede generar electricidad y tiene un gran poder de curación.",
-        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
-        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"},
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"},
 
     {"id": 20,
         "nombre": "Goodra",
         "tipo": "Dragón / Agua",
         "pista": "Es un Pokémon que puede controlar el agua y tiene un gran poder de combate.",
-        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
-        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"}
+        "imagen_silueta": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+        "imagen_revelada": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"}
 ]
 
 class Intento(BaseModel):
